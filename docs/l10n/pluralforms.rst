@@ -153,6 +153,7 @@ a correct plural form
    nso,   Northern Sotho,        nplurals=2; plural=(n != 1);
    **O**
    oc,    Occitan,               nplurals=2; plural=(n > 1);
+   om,    Oromo,                 nplurals=2; plural=(n > 1);
    or,    Oriya,                 nplurals=2; plural=(n != 1);
    **P**
    pa,    Punjabi,               nplurals=2; plural=(n != 1);
